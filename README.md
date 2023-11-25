@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vforbes1
-- 👀 I’m interested in ... Small Business 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... SBA.GOV 
+- 🌱 I’m currently learning ... GRANTS.GOV 
 - 💞️ I’m looking to collaborate on ... USA.GOV
 - 📫 How to reach me ... Virginia23@currently.com
 
